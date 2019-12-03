@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+ 
+html, body{
+
+margin: 0;
+padding: 0;
+
+
+text-rendering: geometricPrecision;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+font-family: nimbus-sans, sans-serif;
+font-size: 11px;
+height:100%;
+width: 100%;
+
+background-color:#f9f9f9;
+
+}
+
+
+
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+ 
