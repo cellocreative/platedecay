@@ -1,6 +1,4 @@
 from django.shortcuts import render
-import flask
-from flask_cors import CORS
 from .model import update_model_weights
 from . import prediction
 import random
