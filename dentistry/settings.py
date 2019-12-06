@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['15.206.187.32','.softxinnovation.com']
 
-
+‭
+MAX_UPLOAD_SIZE = "3145728‬"
 # Application definition
 
 INSTALLED_APPS = [
