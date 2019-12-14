@@ -25,10 +25,7 @@ SECRET_KEY = 'vq77%@)2(9)sdy3j07iq^@myrb(64d^6)0_n1(x*5vs%a0+x2l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['15.206.187.32','.softxinnovation.com']
-
-‭
-MAX_UPLOAD_SIZE = "3145728‬"
+ALLOWED_HOSTS = ['.softxinnovation.com']
 # Application definition
 
 INSTALLED_APPS = [
